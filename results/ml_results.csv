@@ -1,0 +1,7 @@
+preprocessing,model,split,accuracy,macro_F1
+ours,SVM,subject-wise,0.893,0.893
+ours,RF,subject-wise,0.768,0.768
+ours,RF,random (leaky),0.875,0.875
+authors,SVM,subject-wise,0.952,0.952
+authors,RF,subject-wise,0.856,0.856
+authors,RF,random (leaky),0.863,0.863

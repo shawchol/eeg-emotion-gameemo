@@ -1,0 +1,3 @@
+preprocessing,model,split,accuracy_mean_sd,macro_F1
+ours,1D-CNN,subject-wise 5-fold,0.633 ± 0.191,0.623
+authors,1D-CNN,subject-wise 5-fold,0.623 ± 0.223,0.612
